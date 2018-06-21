@@ -15,6 +15,9 @@ Learning Objectives
 Lectures (Videos and Readings)
 ------------------------------
 
+Complete the readings and videos in the `Linear Algebra Review  <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
+
 In Class Assignment
 -------------------
 
@@ -23,3 +26,5 @@ Quizzes
 
 Homework
 --------
+
+Complete the practice exercise in the `Linear Algebra Review  <https://www.coursera.org/learn/machine-learning>`_ module of Coursera

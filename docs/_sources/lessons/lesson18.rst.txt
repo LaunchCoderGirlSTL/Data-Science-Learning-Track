@@ -16,11 +16,17 @@ Learning Objectives
 Lectures (Videos and Readings)
 ------------------------------
 
+Complete the readings and videos in the `Support Vector Machines <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
 In Class Assignment
 -------------------
 
 Quizzes
 -------
 
+Complete the quizzes in the `Support Vector Machines <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
 Homework
 --------
+
+Complete the Support Vector Machines exercise

@@ -14,11 +14,17 @@ Learning Objectives
 Lectures (Videos and Readings)
 ------------------------------
 
+Complete the readings and videos in the `Neural Networks: Representation <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
 In Class Assignment
 -------------------
 
 Quizzes
 -------
 
+Complete the Quizzes in the `Neural Networks: Representation <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
 Homework
 --------
+
+Complete the exercise on multi-class classification and neural networks
