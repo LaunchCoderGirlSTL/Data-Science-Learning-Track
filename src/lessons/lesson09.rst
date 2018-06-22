@@ -1,0 +1,32 @@
+Lesson 9: Linear Algebra
+========================
+
+Learning Objectives
+-------------------
+
+* The difference between a matrix and a vector
+* Addition/subtraction of a vector/matrix and a scalar
+* Multiplying a matrix with a vector
+* Multiplying a matrix with another matrix
+* Dot product
+* Matrix Inverse
+* Matrix Transpose
+
+Lectures (Videos and Readings)
+------------------------------
+
+Complete the readings and videos in the `Linear Algebra Review  <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
+
+In Class Assignment
+-------------------
+
+We will have an in class quiz about Linear Algebra.
+
+Quizzes
+-------
+
+Homework
+--------
+
+Complete the practice exercise in the `Linear Algebra Review  <https://www.coursera.org/learn/machine-learning>`_ module of Coursera

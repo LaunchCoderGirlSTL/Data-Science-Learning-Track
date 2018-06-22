@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Lesson 3: Intro Python &#8212; CoderGirl Learning Track  documentation</title>
+    <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/css/launchcode.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Lesson 4: Statistics Part 1" href="lesson04.html" />
+    <link rel="prev" title="Lesson 2: Probability" href="lesson02.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head><body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../index.html"><span><img src="../_static/codergirl-white.png"></span>
+          Coder Girl Data Science</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="../index.html">Lessons <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="lesson01.html">Lesson 1: Introduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson01.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson01.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson01.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson01.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson01.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson02.html">Lesson 2: Probability</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson02.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson02.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson02.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson02.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson02.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Lesson 3: Intro Python</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson04.html">Lesson 4: Statistics Part 1</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson04.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson04.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson04.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson04.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson04.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson05.html">Lesson 5: Statistics Part 2</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson05.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson05.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson05.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson05.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson05.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson06.html">Lesson 6: Python for Data Science</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson06.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson06.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson06.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson06.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson06.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson07.html">Lesson 7: Data Science Introduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson07.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson07.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson07.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson07.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson07.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson08.html">Lesson 8: Linear Regression Part 1</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson08.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson08.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson08.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson08.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson08.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson09.html">Lesson 9: Linear Algebra</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson09.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson09.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson09.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson09.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson09.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson10.html">Lesson 10: Linear Regression Part 2</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson10.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson10.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson10.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson10.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson10.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson11.html">Lesson 11: Numpy</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson11.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson11.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson11.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson11.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson11.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson12.html">Lesson 12: Logistic Regression</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson12.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson12.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson12.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson12.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson12.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson13.html">Lesson 13: Regularization</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson13.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson13.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson13.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson13.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson13.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson14.html">Lesson 14: Neural Networks Part 1</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson14.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson14.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson14.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson14.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson14.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson15.html">Lesson 15: Neural Networks Part 2</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson15.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson15.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson15.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson15.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson15.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson16.html">Lesson 16: Bias/Variance Tradeoff</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson16.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson16.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson16.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson16.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson16.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson17.html">Lesson 17: Designing ML</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson17.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson17.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson17.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson17.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson17.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson18.html">Lesson 18: SVM</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson18.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson18.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson18.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson18.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson18.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson19.html">Lesson 19: Unsupervised Learning</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson19.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson19.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson19.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson19.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson19.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson20.html">Lesson 20: Dimensionality Reduction</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson20.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson20.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson20.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson20.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson20.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson21.html">Lesson 21: Anomaly Detection</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson21.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson21.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson21.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson21.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson21.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson22.html">Lesson 22: Recommender Systems</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson22.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson22.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson22.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson22.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson22.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson23.html">Lesson 23: ML at Scale</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson23.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson23.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson23.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson23.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson23.html#homework">Homework</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="lesson24.html">Lesson 24: Character Recognition/Automated Machine Learning</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="lesson24.html#learning-objectives">Learning Objectives</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson24.html#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson24.html#in-class-assignment">In Class Assignment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson24.html#quizzes">Quizzes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lesson24.html#homework">Homework</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+      <div class="col-md-3">
+        <div id="sidebar" class="bs-sidenav" role="complementary"><ul>
+<li><a class="reference internal" href="#">Lesson 3: Intro Python</a><ul>
+<li><a class="reference internal" href="#learning-objectives">Learning Objectives</a></li>
+<li><a class="reference internal" href="#lectures-videos-and-readings">Lectures (Videos and Readings)</a></li>
+<li><a class="reference internal" href="#in-class-assignment">In Class Assignment</a></li>
+<li><a class="reference internal" href="#quizzes">Quizzes</a></li>
+<li><a class="reference internal" href="#homework">Homework</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    <div class="col-md-9 content">
+      
+  <div class="section" id="lesson-3-intro-python">
+<h1>Lesson 3: Intro Python<a class="headerlink" href="#lesson-3-intro-python" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="learning-objectives">
+<h2>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Data types and the differences between them (int, float, str, etc)</li>
+<li>Using lists</li>
+<li>Using dictionaries</li>
+<li>Using for loops</li>
+<li>Using functions</li>
+<li>Conditional statements (if, elif, else)</li>
+<li>Importing packages/understand package dependencies</li>
+<li>Installing anaconda</li>
+</ul>
+</div>
+<div class="section" id="lectures-videos-and-readings">
+<h2>Lectures (Videos and Readings)<a class="headerlink" href="#lectures-videos-and-readings" title="Permalink to this headline">¶</a></h2>
+<p>Complete the readings and videos in <a class="reference external" href="https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/">DAT 208x modules 1 and 2</a></p>
+</div>
+<div class="section" id="in-class-assignment">
+<h2>In Class Assignment<a class="headerlink" href="#in-class-assignment" title="Permalink to this headline">¶</a></h2>
+<p>We will be using Python to learn several basic programming concepts.</p>
+</div>
+<div class="section" id="quizzes">
+<h2>Quizzes<a class="headerlink" href="#quizzes" title="Permalink to this headline">¶</a></h2>
+<p>Complete the quizzes in <a class="reference external" href="https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/">DAT 208x modules 1 and 2</a></p>
+</div>
+<div class="section" id="homework">
+<h2>Homework<a class="headerlink" href="#homework" title="Permalink to this headline">¶</a></h2>
+<p>Complete the exercises in <a class="reference external" href="https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/">DAT 208x modules 1 and 2</a></p>
+</div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2018, LaunchCode.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.7.5.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>
