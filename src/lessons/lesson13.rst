@@ -19,6 +19,8 @@ Complete the readings and videos in the `Regularization <https://www.coursera.or
 In Class Assignment
 -------------------
 
+We will learn about Regularization using sklearn.
+
 Quizzes
 -------
 

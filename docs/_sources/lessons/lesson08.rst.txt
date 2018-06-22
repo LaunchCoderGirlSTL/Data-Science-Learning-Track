@@ -22,6 +22,8 @@ Complete the readings and videos in the `Linear Regression with One Variable  <h
 In Class Assignment
 -------------------
 
+We will be introducing the scikit-learn (or sklearn) python module, and using it to help learn about Linear Regression.
+
 Quizzes
 -------
 

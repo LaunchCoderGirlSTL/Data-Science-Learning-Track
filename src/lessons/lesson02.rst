@@ -12,6 +12,8 @@ Complete the readings and videos in `DAT 222x modules 1 and 2 <https://courses.e
 In Class Assignment
 -------------------
 
+Probability quiz, `probability and statistics unit test <https://www.khanacademy.org/math/statistics-probability/probability-library>`_
+
 Quizzes
 -------
 

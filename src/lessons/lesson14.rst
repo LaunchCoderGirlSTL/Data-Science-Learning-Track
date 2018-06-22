@@ -19,6 +19,8 @@ Complete the readings and videos in the `Neural Networks: Representation <https:
 In Class Assignment
 -------------------
 
+We will be using sklearn to investigate neural networks and multi-class classification.
+
 Quizzes
 -------
 

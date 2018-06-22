@@ -19,6 +19,8 @@ Complete the readings and videos in `DAT 222x module 3 <https://courses.edx.org/
 In Class Assignment
 -------------------
 
+We will be using the Python module SciPy to learn about probability distributions.
+
 Quizzes
 -------
 

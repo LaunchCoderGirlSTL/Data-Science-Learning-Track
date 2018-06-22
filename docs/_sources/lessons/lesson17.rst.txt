@@ -12,6 +12,8 @@ Complete the readings and videos in the `Machine Learning System Design <https:/
 In Class Assignment
 -------------------
 
+We will study an example of ML design.
+
 Quizzes
 -------
 

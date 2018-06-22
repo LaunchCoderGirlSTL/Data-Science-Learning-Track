@@ -21,6 +21,8 @@ Complete the readings and videos in the `Logistic Regression <https://www.course
 In Class Assignment
 -------------------
 
+We will learn about Logistic Regression using sklearn.
+
 Quizzes
 -------
 

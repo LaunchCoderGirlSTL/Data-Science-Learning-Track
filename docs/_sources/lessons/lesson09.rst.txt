@@ -21,6 +21,8 @@ Complete the readings and videos in the `Linear Algebra Review  <https://www.cou
 In Class Assignment
 -------------------
 
+We will have an in class quiz about Linear Algebra.
+
 Quizzes
 -------
 

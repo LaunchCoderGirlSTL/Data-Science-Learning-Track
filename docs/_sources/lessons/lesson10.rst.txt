@@ -22,6 +22,8 @@ Complete the readings and videos in the `Linear Regression with Multiple Variabl
 In Class Assignment
 -------------------
 
+We will continue using sklearn to learn about Linear Regression with multiple variables.
+
 Quizzes
 -------
 

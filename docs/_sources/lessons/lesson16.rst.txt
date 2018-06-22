@@ -20,6 +20,8 @@ Complete the readings and videos in the `Advice for Applying Machine Learning <h
 In Class Assignment
 -------------------
 
+We will learn about regularized linear regression using sklearn.
+
 Quizzes
 -------
 

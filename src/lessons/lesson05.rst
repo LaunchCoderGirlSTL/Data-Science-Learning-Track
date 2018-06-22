@@ -18,6 +18,8 @@ Complete the readings and videos in `DAT 222x module 4 <https://courses.edx.org/
 In Class Assignment
 -------------------
 
+We will continue using SciPy to learn about populations
+
 Quizzes
 -------
 

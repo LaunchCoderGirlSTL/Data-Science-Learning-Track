@@ -12,6 +12,8 @@ Complete the readings and videos in `DAT 208x modules 3, 4, and 5 <https://cours
 In Class Assignment
 -------------------
 
+We will be learning about data cleansing using the pandas module.
+
 Quizzes
 -------
 

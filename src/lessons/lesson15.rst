@@ -16,6 +16,8 @@ Complete the readings and videos in the `Neural Networks: Learning <https://www.
 In Class Assignment
 -------------------
 
+We will be learing about Keras, a Python library made to create and work with neural networks.
+
 Quizzes
 -------
 

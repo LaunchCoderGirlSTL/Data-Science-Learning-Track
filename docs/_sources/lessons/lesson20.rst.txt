@@ -19,6 +19,8 @@ Complete the readings and videos in the `Dimensionality Reduction <https://www.c
 In Class Assignment
 -------------------
 
+We will learn about Principal Component Analysis and k-means clustering in sklearn.
+
 Quizzes
 -------
 

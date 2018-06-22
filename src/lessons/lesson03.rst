@@ -21,6 +21,8 @@ Complete the readings and videos in `DAT 208x modules 1 and 2 <https://courses.e
 In Class Assignment
 -------------------
 
+We will be using Python to learn several basic programming concepts.
+
 Quizzes
 -------
 

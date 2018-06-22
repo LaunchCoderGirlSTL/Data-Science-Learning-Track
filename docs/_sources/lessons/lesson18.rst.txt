@@ -21,6 +21,8 @@ Complete the readings and videos in the `Support Vector Machines <https://www.co
 In Class Assignment
 -------------------
 
+We will be using sklearn to learn about Support Vector Machines.
+
 Quizzes
 -------
 

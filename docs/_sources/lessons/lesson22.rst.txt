@@ -12,6 +12,8 @@ Complete the readings and videos in the `Recommender Systems <https://www.course
 In Class Assignment
 -------------------
 
+We will be learning about Surprise, a Python library made for building and analyzing recommender systems.
+
 Quizzes
 -------
 

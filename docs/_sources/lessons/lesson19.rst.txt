@@ -17,6 +17,8 @@ Complete the readings and videos in the `Unsupervised Learning <https://www.cour
 In Class Assignment
 -------------------
 
+We will be learning about DBSCAN clustering with sklearn.
+
 Quizzes
 -------
 

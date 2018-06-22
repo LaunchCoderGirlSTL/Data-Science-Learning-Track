@@ -7,10 +7,12 @@ Learning Objectives
 Lectures (Videos and Readings)
 ------------------------------
 
+Complete the readings and videos in the `Large Scale Machine Learning <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+
 In Class Assignment
 -------------------
 
-Complete the readings and videos in the `Large Scale Machine Learning <https://www.coursera.org/learn/machine-learning>`_ module of Coursera
+Final Exam
 
 Quizzes
 -------

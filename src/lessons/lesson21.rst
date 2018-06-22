@@ -12,6 +12,8 @@ Complete the readings and videos in the `Anomaly Detection <https://www.coursera
 In Class Assignment
 -------------------
 
+We will be learning about anomaly detection.
+
 Quizzes
 -------
 

@@ -12,6 +12,8 @@ Complete the readings and videos in the `Photo OCR <https://www.coursera.org/lea
 In Class Assignment
 -------------------
 
+We will be looking at an example of automated machine learning.
+
 Quizzes
 -------
 

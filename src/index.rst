@@ -1,7 +1,16 @@
 Course Overview
 ===============
 
-TODO
+Data Science can be applied to discovering customer insights,
+informing digital marketing, scientific fields of research and
+application of predicting outcomes or optimizing processes. 
+
+This course will give you a comprehensive overview of data science
+methods and tools. You will learn how to explore, organize, model,
+and visualize data. Languages of study include SQL, R, and Python.
+If you are interested in a rewarding, lucrative, high-demand career
+then this is a great track for you. Data science incorporates aspects
+of computer science, mathematics, and statistics. 
 
 Lessons
 =======

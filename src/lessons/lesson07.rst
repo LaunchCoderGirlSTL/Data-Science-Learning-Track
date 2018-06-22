@@ -18,6 +18,8 @@ Complete the readings and videos in the `Introduction <https://www.coursera.org/
 In Class Assignment
 -------------------
 
+We will be using the seaborn and matplotlib modules to learn about plotting graphs.
+
 Quizzes
 -------
 
