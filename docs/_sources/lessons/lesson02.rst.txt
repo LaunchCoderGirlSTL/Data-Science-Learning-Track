@@ -3,23 +3,21 @@ Lesson 2: Probability
 
 Learning Objectives
 -------------------
+* Probability
+* Python and Jupyter notebooks
 
-Lectures (Videos and Readings)
-------------------------------
+Prep Work
+---------
 
-Complete the readings and videos in `DAT 222x modules 1 and 2 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
+Complete the readings and videos in week 1 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_.
 
 In Class Assignment
 -------------------
 
-Probability quiz, `probability and statistics unit test <https://www.khanacademy.org/math/statistics-probability/probability-library>`_
+We will be taking the `probability and statistics unit test <https://www.khanacademy.org/math/statistics-probability/probability-library>`_ in class.
+We will also go over how to use Jupyter notebooks and an introduction to Python.
 
-Quizzes
--------
+Assignments
+-----------
 
-Complete the quizzes in `DAT 222x modules 1 and 2 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
-
-Homework
---------
-
-Complete the exercises in `DAT 222x modules 1 and 2 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
+Complete the exercises in week 1 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_ and submit PDFs of your completion in Canvas.
