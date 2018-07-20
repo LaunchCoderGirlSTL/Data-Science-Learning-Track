@@ -1,32 +1,22 @@
-Lesson 4: Statistics Part 1
-=========================== 
+Lesson 4: Advanced Python Pandas
+================================
 
 Learning Objectives
 -------------------
 
-* Descriptive statistiics: understanding mean, variance, skewness and histograms
-* Basic set theory: mutually exclusive and independent events
-* Rules of probability: joint probability, conditional probability, Bayes rule, and the law of total probability
-* Definition and examples of random variables  
-* Probability distribtution and the difference between discrete and continuous distributions
-
-Lectures (Videos and Readings)
-------------------------------
-
-Complete the readings and videos in `DAT 222x module 3 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
-
+* Apply merge and join on DataFrames
+* Employ slicing and indexing on DataFrames
+* Analyze data with groupby and understand categorical variables
+* Produce the entire process of data source to elucidation
+* Examine the data by manipulating, cutting, and applying aggregate functions to DataFrames
 
 In Class Assignment
 -------------------
 
-We will be using the Python module SciPy to learn about probability distributions.
+Please submit your Week 3 Jupyter Notebook on Canvas by Friday.
 
-Quizzes
--------
+Assignment
+----------
 
-Complete the quizzes in `DAT 222x module 3 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
-
-Homework
---------
-
-Complete the exercises in `DAT 222x module 3 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
+Please complete Assignment 3 and submit on Canvas by next class.
+Complete the readings and videos from Week 3 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_.

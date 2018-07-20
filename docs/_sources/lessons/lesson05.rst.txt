@@ -1,31 +1,20 @@
-Lesson 5: Statistics Part 2 
-===========================
+Lesson 5: Statistical Analysis in Python
+========================================
 
 Learning Objectives
 -------------------
 
-* Definition and examples of Binomial random variables
-* Definition and examples of Poisson random variables
-* Definition and examples of Normal random variables
-* Introduction to central limit theorem 
-* Hypothesis testing
-
-Lectures (Videos and Readings)
-------------------------------
-
-Complete the readings and videos in `DAT 222x module 4 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
+* Identify your understanding of basic statistics
+* Recognize different distributions such as binomial, uniform, normal, and chi-squared
+* Interpret data to evaluate hypothesis tests
 
 In Class Assignment
 -------------------
 
-We will continue using SciPy to learn about populations
+Submit the Week 4 Jupyter Notebook by Friday.
 
-Quizzes
--------
+Assignment
+----------
 
-Complete the quizzes in `DAT 222x module 4 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
-
-Homework
---------
-
-Complete the exercises in `DAT 222x module 4 <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
+Please complete the videos and readings for Week 4 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_.
+Submit Assignment 4 on Canvas by the next class.

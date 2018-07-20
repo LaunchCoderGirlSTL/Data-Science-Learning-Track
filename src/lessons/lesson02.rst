@@ -1,23 +1,24 @@
-Lesson 2: Probability
-=====================
+Lesson 2: Python Fundamentals
+=============================
 
 Learning Objectives
 -------------------
-* Probability
-* Python and Jupyter notebooks
+* Recognize the meaning of the term "Data Science"
+* Develop basic Python programs using strings, functions, lists, dictionaries, date/time features, and files
+* Use advanced Python features, including lambdas, list comprehensions and the numpy library
 
 Prep Work
 ---------
 
-Complete the readings and videos in week 1 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_.
+Make sure that you have completed everything from Lesson 1 and are signed up for the Coursera course.
 
 In Class Assignment
 -------------------
 
-We will be taking the `probability and statistics unit test <https://www.khanacademy.org/math/statistics-probability/probability-library>`_ in class.
-We will also go over how to use Jupyter notebooks and an introduction to Python.
+Turn in your Week 1 Jupyter Notebook on Canvas by Friday.
 
 Assignments
 -----------
 
-Complete the exercises in week 1 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_ and submit PDFs of your completion in Canvas.
+You need to complete the readings and videos in week 1 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_.
+You can find the Week 1 Quiz on Canvas.

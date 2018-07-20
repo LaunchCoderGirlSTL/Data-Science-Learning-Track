@@ -1,34 +1,21 @@
-Lesson 3: Intro Python
-======================
+Lesson 3: Basic Data Processing with Pandas
+===========================================
 
 Learning Objectives
 -------------------
 
-* Data types and the differences between them (int, float, str, etc)
-* Using lists
-* Using dictionaries
-* Using for loops
-* Using functions
-* Conditional statements (if, elif, else)
-* Importing packages/understand package dependencies
-* Installing anaconda
-
-Lectures (Videos and Readings)
-------------------------------
-
-Complete the readings and videos in `DAT 208x modules 1 and 2 <https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/>`_
+* Create Series and DataFrame Data Structures
+* Use pandas math functions, as well as broadcasting features
+* Employ the pandas library to import and manipulate data
+* Apply indexing and querying to DataFrames, and deal with missing values
 
 In Class Assignment
 -------------------
 
-We will be using Python to learn several basic programming concepts.
+Please finish your Week 2 Jupyter notebook and submit on Canvas by Friday.
 
-Quizzes
--------
+Assignment
+----------
 
-Complete the quizzes in `DAT 208x modules 1 and 2 <https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/>`_
-
-Homework
---------
-
-Complete the exercises in `DAT 208x modules 1 and 2 <https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/>`_
+Complete the videos and readings from Week 2 of `Introduction to Data Science in Python <https://www.coursera.org/learn/python-data-analysis/>`_
+Complete Assignment 2 and submit by next class.
