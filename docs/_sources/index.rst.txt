@@ -52,7 +52,3 @@ You will need to create an account and enroll for the following online courses
 `EdX DAT222x: Essential Statistics for Data Analysis <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
 
 `EdX DAT208x: Introduction to Python for Data Science <https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/>`_
-
-.. _@LaunchCodeEducation: https://github.com/launchcodeeducation
-.. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL
-.. _curriculum docs: https://education.launchcode.org/curriculum-docs/
