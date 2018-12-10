@@ -12,6 +12,14 @@ If you are interested in a rewarding, lucrative, high-demand career
 then this is a great track for you. Data science incorporates aspects
 of computer science, mathematics, and statistics. 
 
+About Us
+========
+
+.. toctree::
+   :maxdepth: 1
+
+   about
+
 Lessons
 =======
 .. toctree::
