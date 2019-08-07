@@ -12,14 +12,6 @@ If you are interested in a rewarding, lucrative, high-demand career
 then this is a great track for you. Data science incorporates aspects
 of computer science, mathematics, and statistics. 
 
-About Us
-========
-
-.. toctree::
-   :maxdepth: 1
-
-   about
-
 Lessons
 =======
 .. toctree::
@@ -60,3 +52,11 @@ You will need to create an account and enroll for the following online courses
 `EdX DAT222x: Essential Statistics for Data Analysis <https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+3T2017/course/>`_
 
 `EdX DAT208x: Introduction to Python for Data Science <https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2017/course/>`_
+
+About Us
+========
+
+.. toctree::
+   :maxdepth: 1
+
+   about
